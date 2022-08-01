@@ -7,3 +7,4 @@ Steps Followed with each commit
 3. Added pages and routing
 4. Navbar component
 5. Sidebar component
+6. Signup page
