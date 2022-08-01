@@ -9,3 +9,4 @@ Steps Followed with each commit
 5. Sidebar component
 6. Signup page
 7. signup avatar upload error handled
+8. firebase storage setup
