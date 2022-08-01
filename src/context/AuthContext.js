@@ -3,6 +3,7 @@ import { projectAuth } from '../firebase/config'
 
 export const AuthContext = createContext()
 
+// reducer function
 export const authReducer = (state, action) => {
   switch (action.type) {
     case 'LOGIN':
