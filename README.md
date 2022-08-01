@@ -10,3 +10,4 @@ Steps Followed with each commit
 6. Signup page
 7. signup avatar upload error handled
 8. firebase storage setup
+9. user signup done
