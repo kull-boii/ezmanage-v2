@@ -8,3 +8,4 @@ Steps Followed with each commit
 4. Navbar component
 5. Sidebar component
 6. Signup page
+7. signup avatar upload error handled
