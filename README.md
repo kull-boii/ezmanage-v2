@@ -11,3 +11,5 @@ Steps Followed with each commit
 7. signup avatar upload error handled
 8. firebase storage setup
 9. user signup done
+10. Storage rules updated
+11. User logout implemented
