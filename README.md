@@ -15,3 +15,4 @@ Steps Followed with each commit
 11. User logout implemented
 12. login page created
 13. logging users in
+14. login logout redirect added
