@@ -16,3 +16,5 @@ Steps Followed with each commit
 12. login page created
 13. logging users in
 14. login logout redirect added
+15. conditional render navbar
+16. Added avatar component
