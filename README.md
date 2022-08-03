@@ -22,3 +22,4 @@ Steps Followed with each commit
 18. Online users displayed
 19. Added create new project page
 20. Create page
+21. New Project functionality created
