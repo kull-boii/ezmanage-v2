@@ -20,3 +20,4 @@ Steps Followed with each commit
 16. Added avatar component
 17. fetching users
 18. Online users displayed
+19. Added create new project page
