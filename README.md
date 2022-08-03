@@ -18,3 +18,5 @@ Steps Followed with each commit
 14. login logout redirect added
 15. conditional render navbar
 16. Added avatar component
+17. fetching users
+18. Online users displayed
