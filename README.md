@@ -25,3 +25,4 @@ Steps Followed with each commit
 21. New Project functionality created
 22. Dashboard created
 23. useDocument hook
+24. Project page added
